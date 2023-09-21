@@ -10,7 +10,7 @@ body{
     background-repeat: no-repeat; /*permitir o no que se repita una imagen*/
     width: 100%;
     height: auto;
-    opacity: 0.7; /*opacidad de la imagen*/
+    opacity: 0.9; /*opacidad de la imagen*/
     -webkit-background-size: 100% 100%;
     /*safari 3.0*/
     -moz-background-size: 100% 100%;
@@ -22,7 +22,7 @@ body{
 }
 #encabezado {
     background: #5ba6ac;
-    height: 240px;
+    height: 230px;
     text-align: center;
     background-image: url(../img/logo.png);
     background-repeat: no-repeat;
@@ -32,7 +32,7 @@ body{
     width: 100%; /*ancho*/
     height: 100px; /*alto*/
     background: #b99c7b; /*color de fondo*/
-    color: rgb(226, 216, 203);/*color dde letra dentro de la clase*/
+    color: rgb(226, 216, 203);/*color de letra dentro de la clase*/
     bottom: 0; /*espacio de separación parte inferior*/
     position: fixed;
     left: 0; /*alineacipon de contenidos a la izquierda*/
@@ -64,7 +64,7 @@ li a:hover{
 }
 
 #datos{
-    width: 80%;
+    width: 90%;
     background-image: url(../img/fondo.webp);
     height: 600px;
     margin: auto;
